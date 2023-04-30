@@ -1,0 +1,31 @@
+.menu {
+    font-family:monospace;
+    font-size:30px;
+    color:white;
+}
+
+.title{
+    color:white;
+    font-size:100px;
+    text-align:center;
+}
+
+.list{
+    text-align:center;
+}
+
+ul{
+    display:inline-block;
+    text-align:left;
+}
+
+.image{
+    width:auto;
+    height:50px;
+    text-align:center;
+}
+
+.image-holder{
+    text-align:center;
+}
+
